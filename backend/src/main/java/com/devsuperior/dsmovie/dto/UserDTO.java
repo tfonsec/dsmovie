@@ -12,7 +12,7 @@ public class UserDTO {
 	}
 
 	public UserDTO(Long id, String email) {
-		super();
+		
 		this.id = id;
 		this.email = email;
 	}
